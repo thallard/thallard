@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thallard&label=Profile%20views&color=0e75b6&style=flat" alt="thallard" /> </p>
 
 <!--
 **thallard/thallard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
