@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center"> </p>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://thallard-git-main.thallard.vercel.app/api?username=thallard&show_icons=true&theme=radical)
 <!--
 **thallard/thallard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
