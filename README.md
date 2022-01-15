@@ -1,7 +1,9 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 08 January, 2022 - 14 January, 2022
+
+C++      11 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄   96.69 % 
 ```
 <!--END_SECTION:waka-->
 
