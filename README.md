@@ -2,7 +2,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 13 January 2023 - To: 20 January 2023
+
+Other   11 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   58.12 %
 ```
 
 <!--END_SECTION:waka-->
