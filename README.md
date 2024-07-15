@@ -2,7 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2024 - To: 06 July 2024
+From: 06 July 2024 - To: 13 July 2024
 
 No activity tracked
 ```
